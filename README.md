@@ -1,3 +1,4 @@
+See https://github.com/ebcodev/ChatterHub-v1.0 for initial release reference
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
