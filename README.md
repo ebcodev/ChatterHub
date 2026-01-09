@@ -1337,6 +1337,6 @@ npm test
 
 ## License
 
- is protected under the [LICENSE]([https://choosealicense.com/licenses](https://choosealicense.com/licenses/mit/) License. For more details, refer to the [LICENSE](https://github.com/ebcodev/ChatterHub/blob/main/LICENSE) file.
+ is protected under the [LICENSE]([https://choosealicense.com/licenses](https://choosealicense.com/licenses/mit/)) License. For more details, refer to the [LICENSE](https://github.com/ebcodev/ChatterHub/blob/main/LICENSE) file.
 
 </div>
