@@ -1337,12 +1337,6 @@ npm test
 
 ## License
 
- is protected under the [LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+ is protected under the [LICENSE]([https://choosealicense.com/licenses](https://choosealicense.com/licenses/mit/) License. For more details, refer to the [LICENSE](https://github.com/ebcodev/ChatterHub/blob/main/LICENSE) file.
 
 </div>
-
-
-[back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-
-
----
