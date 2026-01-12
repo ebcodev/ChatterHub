@@ -49,7 +49,6 @@ See https://github.com/ebcodev/ChatterHub-v1.0 for initial release reference
     - [Testing](#testing)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -74,6 +73,8 @@ See https://github.com/ebcodev/ChatterHub-v1.0 for initial release reference
 | 📦 | **Dependencies**  | <ul><li>Utilizes a wide range of dependencies for various functionalities including **React**, **TailwindCSS**, **Next.js**, and more.</li></ul> |
 
 ---
+
+https://github.com/user-attachments/assets/69783ea8-d3cf-4b1d-bdd8-fb110615dccd
 
 ## Project Structure
 
